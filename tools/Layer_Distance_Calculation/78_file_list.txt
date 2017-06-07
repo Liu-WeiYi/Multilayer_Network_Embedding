@@ -1,0 +1,4 @@
+78/0_communication.txt
+78/1_financial.txt
+78/2_operationalaggregated.txt
+78/3_trustaggregated.txt

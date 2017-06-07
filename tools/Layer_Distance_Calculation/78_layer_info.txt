@@ -1,0 +1,6 @@
+0_communication.txt 1_financial.txt 1.07
+0_communication.txt 2_operationalaggregated.txt 2.33
+0_communication.txt 3_trustaggregated.txt 2.44
+1_financial.txt 2_operationalaggregated.txt 1.07
+1_financial.txt 3_trustaggregated.txt 1.07
+2_operationalaggregated.txt 3_trustaggregated.txt 2.33

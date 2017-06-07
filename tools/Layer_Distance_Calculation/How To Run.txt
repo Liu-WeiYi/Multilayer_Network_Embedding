@@ -1,0 +1,4 @@
+You can test multired on this data set by using, e.g., :
+
+  python simple_test.py 78_file_list.txt
+

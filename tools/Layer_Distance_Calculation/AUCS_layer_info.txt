@@ -1,0 +1,10 @@
+0_coauthor.txt 1_facebook.txt 1.97
+0_coauthor.txt 2_leisure.txt 1.97
+0_coauthor.txt 3_lunch.txt 1.97
+0_coauthor.txt 4_work.txt 1.97
+1_facebook.txt 2_leisure.txt 2.61
+1_facebook.txt 3_lunch.txt 2.48
+1_facebook.txt 4_work.txt 2.48
+2_leisure.txt 3_lunch.txt 2.48
+2_leisure.txt 4_work.txt 2.48
+3_lunch.txt 4_work.txt 2.89
